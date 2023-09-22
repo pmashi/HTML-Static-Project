@@ -4,4 +4,24 @@
     background-color: aquamarine;
     color: white; 
     font-size: 64px; 
+}   
+
+.down { 
+    position:relative;
+    top: 10px; 
+    left: 100px; 
+    background-color: lightblue;
+}
+
+.image { 
+    border-color: black;
+    border: 10px solid #555; 
+}
+
+.info {
+    font-size: 36px;
+}
+
+section { 
+    display:flex; 
 }
