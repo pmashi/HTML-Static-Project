@@ -4,8 +4,19 @@
     background-color: aquamarine;
     color: white; 
     font-size: 64px; 
+    
 }   
 
+#pos { 
+    position: relative; 
+    left: 50px; 
+}
+
+#pos2 { 
+    position: relative; 
+    left: 50px;
+    top: 200px; 
+}
 .down { 
     position:relative;
     top: 10px; 
