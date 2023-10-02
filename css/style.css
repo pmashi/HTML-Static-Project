@@ -48,3 +48,8 @@ section {
 #spread { 
     justify-content: space-between;
 }
+
+.skilltable { 
+    margin:0 auto;
+
+}
